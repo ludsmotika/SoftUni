@@ -1,0 +1,14 @@
+C:\Users\Daniel\Downloads\01. Person_Skeleton\Person\bin\Debug\netcoreapp3.1\Person.exe
+C:\Users\Daniel\Downloads\01. Person_Skeleton\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+C:\Users\Daniel\Downloads\01. Person_Skeleton\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+C:\Users\Daniel\Downloads\01. Person_Skeleton\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+C:\Users\Daniel\Downloads\01. Person_Skeleton\Person\bin\Debug\netcoreapp3.1\Person.dll
+C:\Users\Daniel\Downloads\01. Person_Skeleton\Person\bin\Debug\netcoreapp3.1\Person.pdb
+C:\Users\Daniel\Downloads\01. Person_Skeleton\Person\obj\Debug\netcoreapp3.1\Person.csproj.AssemblyReference.cache
+C:\Users\Daniel\Downloads\01. Person_Skeleton\Person\obj\Debug\netcoreapp3.1\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Downloads\01. Person_Skeleton\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+C:\Users\Daniel\Downloads\01. Person_Skeleton\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+C:\Users\Daniel\Downloads\01. Person_Skeleton\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\01. Person_Skeleton\Person\obj\Debug\netcoreapp3.1\Person.dll
+C:\Users\Daniel\Downloads\01. Person_Skeleton\Person\obj\Debug\netcoreapp3.1\Person.pdb
+C:\Users\Daniel\Downloads\01. Person_Skeleton\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache

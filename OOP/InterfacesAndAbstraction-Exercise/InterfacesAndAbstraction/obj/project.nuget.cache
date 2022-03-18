@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hI3FW3bKFdlOdsVF8IMwZDFuIP92l1t0Fya1wKz8/EbKd74l7kY90iO+pT2ZEoar2XC8Q4ZLp/AwpfEfHMwxpg==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\C# Advanced\\OOP\\InterfacesAndAbstraction-Exercise\\InterfacesAndAbstraction\\InterfacesAndAbstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

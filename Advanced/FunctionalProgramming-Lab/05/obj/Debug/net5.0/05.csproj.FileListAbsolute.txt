@@ -1,0 +1,16 @@
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\bin\Debug\net5.0\05.exe
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\bin\Debug\net5.0\05.deps.json
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\bin\Debug\net5.0\05.runtimeconfig.json
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\bin\Debug\net5.0\05.runtimeconfig.dev.json
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\bin\Debug\net5.0\05.dll
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\bin\Debug\net5.0\ref\05.dll
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\bin\Debug\net5.0\05.pdb
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\obj\Debug\net5.0\05.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\obj\Debug\net5.0\05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\obj\Debug\net5.0\05.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\obj\Debug\net5.0\05.AssemblyInfo.cs
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\obj\Debug\net5.0\05.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\obj\Debug\net5.0\05.dll
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\obj\Debug\net5.0\ref\05.dll
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\obj\Debug\net5.0\05.pdb
+D:\Dani\SoftUni\FunctionalProgramming-Lab\05\obj\Debug\net5.0\05.genruntimeconfig.cache

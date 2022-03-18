@@ -1,0 +1,16 @@
+D:\Dani\SoftUni\StackAndQueue-Lab\07\bin\Debug\net5.0\07.exe
+D:\Dani\SoftUni\StackAndQueue-Lab\07\bin\Debug\net5.0\07.deps.json
+D:\Dani\SoftUni\StackAndQueue-Lab\07\bin\Debug\net5.0\07.runtimeconfig.json
+D:\Dani\SoftUni\StackAndQueue-Lab\07\bin\Debug\net5.0\07.runtimeconfig.dev.json
+D:\Dani\SoftUni\StackAndQueue-Lab\07\bin\Debug\net5.0\07.dll
+D:\Dani\SoftUni\StackAndQueue-Lab\07\bin\Debug\net5.0\ref\07.dll
+D:\Dani\SoftUni\StackAndQueue-Lab\07\bin\Debug\net5.0\07.pdb
+D:\Dani\SoftUni\StackAndQueue-Lab\07\obj\Debug\net5.0\07.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\StackAndQueue-Lab\07\obj\Debug\net5.0\07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\StackAndQueue-Lab\07\obj\Debug\net5.0\07.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\StackAndQueue-Lab\07\obj\Debug\net5.0\07.AssemblyInfo.cs
+D:\Dani\SoftUni\StackAndQueue-Lab\07\obj\Debug\net5.0\07.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\StackAndQueue-Lab\07\obj\Debug\net5.0\07.dll
+D:\Dani\SoftUni\StackAndQueue-Lab\07\obj\Debug\net5.0\ref\07.dll
+D:\Dani\SoftUni\StackAndQueue-Lab\07\obj\Debug\net5.0\07.pdb
+D:\Dani\SoftUni\StackAndQueue-Lab\07\obj\Debug\net5.0\07.genruntimeconfig.cache

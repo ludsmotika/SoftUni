@@ -1,0 +1,14 @@
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.AssemblyReference.cache
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\Telephony\obj\Debug\netcoreapp3.1\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

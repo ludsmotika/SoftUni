@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OgOEQfw7tRkui/TvW51CvfCjg1+hj5hVnDeai1/rov/jMZHVU5jhK/4nK+rGTHFKfRK5kyHlDe3vLcd9C1ilxg==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\C# Advanced\\OOP\\InterfacesAndAbstraction-Lab\\Cars\\Cars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

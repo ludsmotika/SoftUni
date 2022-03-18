@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\фуцкофф\bin\Debug\netcoreapp3.1\фуцкофф.exe
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\фуцкофф\bin\Debug\netcoreapp3.1\фуцкофф.deps.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\фуцкофф\bin\Debug\netcoreapp3.1\фуцкофф.runtimeconfig.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\фуцкофф\bin\Debug\netcoreapp3.1\фуцкофф.runtimeconfig.dev.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\фуцкофф\bin\Debug\netcoreapp3.1\фуцкофф.dll
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\фуцкофф\bin\Debug\netcoreapp3.1\фуцкофф.pdb
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\фуцкофф\obj\Debug\netcoreapp3.1\фуцкофф.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\фуцкофф\obj\Debug\netcoreapp3.1\фуцкофф.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\фуцкофф\obj\Debug\netcoreapp3.1\фуцкофф.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\фуцкофф\obj\Debug\netcoreapp3.1\фуцкофф.AssemblyInfo.cs
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\фуцкофф\obj\Debug\netcoreapp3.1\фуцкофф.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\фуцкофф\obj\Debug\netcoreapp3.1\фуцкофф.dll
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\фуцкофф\obj\Debug\netcoreapp3.1\фуцкофф.pdb
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\фуцкофф\obj\Debug\netcoreapp3.1\фуцкофф.genruntimeconfig.cache

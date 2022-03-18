@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SPzAitmKhLJ8+YzcvAPwlw5qvDqq3TMeo7KZ6o7wEe68ZYIwl78ce7HEGUZHFAC6+rhZ63DTem2ERUjb/4NTMQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\C# Advanced\\OOP\\Encapsulation-Exercise\\Encapsulation-Exercise\\Encapsulation-Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

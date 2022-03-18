@@ -1,0 +1,16 @@
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\bin\Debug\net5.0\11.exe
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\bin\Debug\net5.0\11.deps.json
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\bin\Debug\net5.0\11.runtimeconfig.json
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\bin\Debug\net5.0\11.runtimeconfig.dev.json
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\bin\Debug\net5.0\11.dll
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\bin\Debug\net5.0\ref\11.dll
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\bin\Debug\net5.0\11.pdb
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\obj\Debug\net5.0\11.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\obj\Debug\net5.0\11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\obj\Debug\net5.0\11.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\obj\Debug\net5.0\11.AssemblyInfo.cs
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\obj\Debug\net5.0\11.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\obj\Debug\net5.0\11.dll
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\obj\Debug\net5.0\ref\11.dll
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\obj\Debug\net5.0\11.pdb
+D:\Dani\SoftUni\StackAndQueues-Exercise\11\obj\Debug\net5.0\11.genruntimeconfig.cache

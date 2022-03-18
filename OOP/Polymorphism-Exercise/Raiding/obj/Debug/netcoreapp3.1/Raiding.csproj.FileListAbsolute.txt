@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache

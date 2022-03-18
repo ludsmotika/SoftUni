@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\Generics-Exercise\CustomGenericDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomGenericDoublyLinkedList.exe
+D:\Dani\SoftUni\Generics-Exercise\CustomGenericDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomGenericDoublyLinkedList.deps.json
+D:\Dani\SoftUni\Generics-Exercise\CustomGenericDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomGenericDoublyLinkedList.runtimeconfig.json
+D:\Dani\SoftUni\Generics-Exercise\CustomGenericDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomGenericDoublyLinkedList.runtimeconfig.dev.json
+D:\Dani\SoftUni\Generics-Exercise\CustomGenericDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomGenericDoublyLinkedList.dll
+D:\Dani\SoftUni\Generics-Exercise\CustomGenericDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomGenericDoublyLinkedList.pdb
+D:\Dani\SoftUni\Generics-Exercise\CustomGenericDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomGenericDoublyLinkedList.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\Generics-Exercise\CustomGenericDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomGenericDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\Generics-Exercise\CustomGenericDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomGenericDoublyLinkedList.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\Generics-Exercise\CustomGenericDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomGenericDoublyLinkedList.AssemblyInfo.cs
+D:\Dani\SoftUni\Generics-Exercise\CustomGenericDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomGenericDoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\Generics-Exercise\CustomGenericDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomGenericDoublyLinkedList.dll
+D:\Dani\SoftUni\Generics-Exercise\CustomGenericDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomGenericDoublyLinkedList.pdb
+D:\Dani\SoftUni\Generics-Exercise\CustomGenericDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomGenericDoublyLinkedList.genruntimeconfig.cache

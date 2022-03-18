@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.exe
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.dll
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.pdb
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.dll
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.pdb
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache

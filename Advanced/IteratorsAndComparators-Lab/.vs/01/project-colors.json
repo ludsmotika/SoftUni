@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6cd1a1a8-49b9-408c-b572-e4a19a8a6e48": {
+      "ProjectGuid": "6cd1a1a8-49b9-408c-b572-e4a19a8a6e48",
+      "DisplayName": "IteratorsAndComparators",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

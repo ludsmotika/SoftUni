@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a3a76d1a-2b69-4680-8f3d-e1ce22f3439b": {
+      "ProjectGuid": "a3a76d1a-2b69-4680-8f3d-e1ce22f3439b",
+      "DisplayName": "DefiningClasses-Exercise",
+      "ColorIndex": 0
+    },
+    "9fde326c-b8fc-4fc3-a54c-07f93cb497af": {
+      "ProjectGuid": "9fde326c-b8fc-4fc3-a54c-07f93cb497af",
+      "DisplayName": "DefiningClasses",
+      "ColorIndex": 1
+    },
+    "76359142-0ed0-4c2d-950b-e8c8682b02b1": {
+      "ProjectGuid": "76359142-0ed0-4c2d-950b-e8c8682b02b1",
+      "DisplayName": "6. Speed Racing",
+      "ColorIndex": 2
+    },
+    "8bf12fd9-eb1a-490c-8629-daea9dd9900c": {
+      "ProjectGuid": "8bf12fd9-eb1a-490c-8629-daea9dd9900c",
+      "DisplayName": "07",
+      "ColorIndex": 3
+    },
+    "1b134558-a2a8-40db-9222-8bfa0369c7fb": {
+      "ProjectGuid": "1b134558-a2a8-40db-9222-8bfa0369c7fb",
+      "DisplayName": "CarSalesman",
+      "ColorIndex": 4
+    },
+    "f10f58be-19e4-4078-883f-8013e34f1a56": {
+      "ProjectGuid": "f10f58be-19e4-4078-883f-8013e34f1a56",
+      "DisplayName": "09",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

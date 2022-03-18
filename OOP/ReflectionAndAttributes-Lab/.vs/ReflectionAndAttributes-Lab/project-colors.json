@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9900fa7f-8a49-41b3-bc04-ce83533b69ab": {
+      "ProjectGuid": "9900fa7f-8a49-41b3-bc04-ce83533b69ab",
+      "DisplayName": "ReflectionAndAttributes-Lab",
+      "ColorIndex": 0
+    },
+    "1ecff68e-1b23-4543-8547-58e0c9baf99e": {
+      "ProjectGuid": "1ecff68e-1b23-4543-8547-58e0c9baf99e",
+      "DisplayName": "AuthorProblem",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

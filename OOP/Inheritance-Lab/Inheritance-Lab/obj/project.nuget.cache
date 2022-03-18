@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sEuF4cF5XD5nwUKnf6mZj3xmlAPD6GR/u5r+7hitP0rIY8/GNHAe1z2voOiIE2hlMt3kO9+DX6EvqRtOUHmlLA==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\C# Advanced\\OOP\\Inheritance-Lab\\Inheritance-Lab\\Farm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

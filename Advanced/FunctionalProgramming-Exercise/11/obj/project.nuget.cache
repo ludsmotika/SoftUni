@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6R+z5Lda0woQw+8GHbmKL4CD1Mw6DYq8TDQ0B8H0YgC4pVvx4BuPVcbdFGbjRpo6+HWGxLlL7fHqoE649ijU5w==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\FunctionalProgramming-Exercise\\11\\11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

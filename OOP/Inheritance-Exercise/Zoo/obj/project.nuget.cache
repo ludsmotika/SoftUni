@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rOd/CvMIA+qYXs0OBAJMZGTWNzs1uD+l2jjqySJFFogCkqUYglIG+9jcETio2XMnJWHfJnjNi2s1SdQB7LSJwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\Downloads\\01. Person_Skeleton\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

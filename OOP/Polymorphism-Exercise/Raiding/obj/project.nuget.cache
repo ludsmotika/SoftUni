@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WhBu4M3RdYx+TOAnjcZFam2oMB1k8MqVo+TGhY1KCw/IfsA0eyUZ5pIVkWvFa5hB0B9ZiCd70g/SfiyIM8mK8g==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\C# Advanced\\OOP\\Polymorphism-Exercise\\Raiding\\Raiding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

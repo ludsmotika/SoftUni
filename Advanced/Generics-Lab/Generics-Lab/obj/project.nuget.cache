@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZZppzp+Z74nUU+jxlK1PZIY8QPe2MVNRmx+Y93/cWEojs/A0tN2ztt3oSWeomG0I2vL758JIuqE66w3jy1lP6Q==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\Generics-Lab\\Generics-Lab\\BoxOfT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

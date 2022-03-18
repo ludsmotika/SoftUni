@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ba53496-af9d-41d6-b9a9-e04061231b01": {
+      "ProjectGuid": "1ba53496-af9d-41d6-b9a9-e04061231b01",
+      "DisplayName": "Polymorphism-Lab",
+      "ColorIndex": 0
+    },
+    "3dff827f-b6a2-4ea6-910c-dd2891f53bcf": {
+      "ProjectGuid": "3dff827f-b6a2-4ea6-910c-dd2891f53bcf",
+      "DisplayName": "Animals",
+      "ColorIndex": 1
+    },
+    "983e00df-a999-4767-93d9-3b98c286acda": {
+      "ProjectGuid": "983e00df-a999-4767-93d9-3b98c286acda",
+      "DisplayName": "Shapes",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

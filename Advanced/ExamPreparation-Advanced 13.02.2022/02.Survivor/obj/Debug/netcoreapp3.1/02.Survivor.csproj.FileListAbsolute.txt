@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.exe
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.deps.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.dev.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.dll
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.pdb
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfo.cs
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.dll
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.pdb
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.genruntimeconfig.cache

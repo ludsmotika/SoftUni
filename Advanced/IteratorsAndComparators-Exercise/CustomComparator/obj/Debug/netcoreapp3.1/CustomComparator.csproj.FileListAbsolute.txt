@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.exe
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.deps.json
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.runtimeconfig.json
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.runtimeconfig.dev.json
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.dll
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.pdb
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.AssemblyInfo.cs
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.dll
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.pdb
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.genruntimeconfig.cache
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.csproj.AssemblyReference.cache

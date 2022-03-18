@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.exe
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.deps.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.runtimeconfig.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.runtimeconfig.dev.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.dll
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.pdb
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.AssemblyInfo.cs
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.dll
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.pdb
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.genruntimeconfig.cache

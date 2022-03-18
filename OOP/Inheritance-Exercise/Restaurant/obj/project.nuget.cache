@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Ig7yv75DOe6oHvF+iBKC3Fht5RQNCj1zr70xwwgg+3QFb+y2fInfAVBx4Nw1A+UZoO7yDVhBCFfyZpM2F4R8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\Downloads\\01. Person_Skeleton\\Restaurant\\Restaurant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

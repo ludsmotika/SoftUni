@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.exe
+D:\Dani\SoftUni\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.deps.json
+D:\Dani\SoftUni\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.json
+D:\Dani\SoftUni\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.dev.json
+D:\Dani\SoftUni\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.dll
+D:\Dani\SoftUni\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+D:\Dani\SoftUni\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfo.cs
+D:\Dani\SoftUni\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.dll
+D:\Dani\SoftUni\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+D:\Dani\SoftUni\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\C# Advanced\OOP\ExceptionsAndErrorHandling-Lab\PlayCatch-05\bin\Debug\netcoreapp3.1\PlayCatch-05.exe
+D:\Dani\SoftUni\C# Advanced\OOP\ExceptionsAndErrorHandling-Lab\PlayCatch-05\bin\Debug\netcoreapp3.1\PlayCatch-05.deps.json
+D:\Dani\SoftUni\C# Advanced\OOP\ExceptionsAndErrorHandling-Lab\PlayCatch-05\bin\Debug\netcoreapp3.1\PlayCatch-05.runtimeconfig.json
+D:\Dani\SoftUni\C# Advanced\OOP\ExceptionsAndErrorHandling-Lab\PlayCatch-05\bin\Debug\netcoreapp3.1\PlayCatch-05.runtimeconfig.dev.json
+D:\Dani\SoftUni\C# Advanced\OOP\ExceptionsAndErrorHandling-Lab\PlayCatch-05\bin\Debug\netcoreapp3.1\PlayCatch-05.dll
+D:\Dani\SoftUni\C# Advanced\OOP\ExceptionsAndErrorHandling-Lab\PlayCatch-05\bin\Debug\netcoreapp3.1\PlayCatch-05.pdb
+D:\Dani\SoftUni\C# Advanced\OOP\ExceptionsAndErrorHandling-Lab\PlayCatch-05\obj\Debug\netcoreapp3.1\PlayCatch-05.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\C# Advanced\OOP\ExceptionsAndErrorHandling-Lab\PlayCatch-05\obj\Debug\netcoreapp3.1\PlayCatch-05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\C# Advanced\OOP\ExceptionsAndErrorHandling-Lab\PlayCatch-05\obj\Debug\netcoreapp3.1\PlayCatch-05.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\C# Advanced\OOP\ExceptionsAndErrorHandling-Lab\PlayCatch-05\obj\Debug\netcoreapp3.1\PlayCatch-05.AssemblyInfo.cs
+D:\Dani\SoftUni\C# Advanced\OOP\ExceptionsAndErrorHandling-Lab\PlayCatch-05\obj\Debug\netcoreapp3.1\PlayCatch-05.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\C# Advanced\OOP\ExceptionsAndErrorHandling-Lab\PlayCatch-05\obj\Debug\netcoreapp3.1\PlayCatch-05.dll
+D:\Dani\SoftUni\C# Advanced\OOP\ExceptionsAndErrorHandling-Lab\PlayCatch-05\obj\Debug\netcoreapp3.1\PlayCatch-05.pdb
+D:\Dani\SoftUni\C# Advanced\OOP\ExceptionsAndErrorHandling-Lab\PlayCatch-05\obj\Debug\netcoreapp3.1\PlayCatch-05.genruntimeconfig.cache

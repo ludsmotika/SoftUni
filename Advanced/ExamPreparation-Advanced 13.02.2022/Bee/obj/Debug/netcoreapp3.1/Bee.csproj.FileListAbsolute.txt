@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\Bee\bin\Debug\netcoreapp3.1\Bee.exe
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\Bee\bin\Debug\netcoreapp3.1\Bee.deps.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\Bee\bin\Debug\netcoreapp3.1\Bee.runtimeconfig.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\Bee\bin\Debug\netcoreapp3.1\Bee.runtimeconfig.dev.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\Bee\bin\Debug\netcoreapp3.1\Bee.dll
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\Bee\bin\Debug\netcoreapp3.1\Bee.pdb
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\Bee\obj\Debug\netcoreapp3.1\Bee.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\Bee\obj\Debug\netcoreapp3.1\Bee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\Bee\obj\Debug\netcoreapp3.1\Bee.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\Bee\obj\Debug\netcoreapp3.1\Bee.AssemblyInfo.cs
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\Bee\obj\Debug\netcoreapp3.1\Bee.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\Bee\obj\Debug\netcoreapp3.1\Bee.dll
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\Bee\obj\Debug\netcoreapp3.1\Bee.pdb
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\Bee\obj\Debug\netcoreapp3.1\Bee.genruntimeconfig.cache

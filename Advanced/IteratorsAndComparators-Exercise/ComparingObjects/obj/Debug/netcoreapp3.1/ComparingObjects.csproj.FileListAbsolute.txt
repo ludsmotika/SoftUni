@@ -1,0 +1,13 @@
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.exe
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.deps.json
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.runtimeconfig.json
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.runtimeconfig.dev.json
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.dll
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.pdb
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.AssemblyInfo.cs
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.dll
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.pdb
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.genruntimeconfig.cache

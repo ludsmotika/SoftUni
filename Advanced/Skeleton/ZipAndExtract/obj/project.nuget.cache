@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Evl0AH9e9Fb/fewX09IGvZdDutMdaYwZ3+js/tp+6JpmEY2CJtb+DTZpORRFOko8jU9vRpCORJpsiswA1+Cf+Q==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\Skeleton\\ZipAndExtract\\ZipAndExtract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

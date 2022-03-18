@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Polymorphism-Exercise\bin\Debug\netcoreapp3.1\Polymorphism-Exercise.exe
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Polymorphism-Exercise\bin\Debug\netcoreapp3.1\Polymorphism-Exercise.deps.json
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Polymorphism-Exercise\bin\Debug\netcoreapp3.1\Polymorphism-Exercise.runtimeconfig.json
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Polymorphism-Exercise\bin\Debug\netcoreapp3.1\Polymorphism-Exercise.runtimeconfig.dev.json
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Polymorphism-Exercise\bin\Debug\netcoreapp3.1\Polymorphism-Exercise.dll
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Polymorphism-Exercise\bin\Debug\netcoreapp3.1\Polymorphism-Exercise.pdb
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Polymorphism-Exercise\obj\Debug\netcoreapp3.1\Polymorphism-Exercise.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Polymorphism-Exercise\obj\Debug\netcoreapp3.1\Polymorphism-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Polymorphism-Exercise\obj\Debug\netcoreapp3.1\Polymorphism-Exercise.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Polymorphism-Exercise\obj\Debug\netcoreapp3.1\Polymorphism-Exercise.AssemblyInfo.cs
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Polymorphism-Exercise\obj\Debug\netcoreapp3.1\Polymorphism-Exercise.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Polymorphism-Exercise\obj\Debug\netcoreapp3.1\Polymorphism-Exercise.dll
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Polymorphism-Exercise\obj\Debug\netcoreapp3.1\Polymorphism-Exercise.pdb
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Exercise\Polymorphism-Exercise\obj\Debug\netcoreapp3.1\Polymorphism-Exercise.genruntimeconfig.cache

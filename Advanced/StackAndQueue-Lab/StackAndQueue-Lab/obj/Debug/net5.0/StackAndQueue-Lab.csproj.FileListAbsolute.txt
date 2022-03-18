@@ -1,0 +1,16 @@
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\bin\Debug\net5.0\StackAndQueue-Lab.exe
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\bin\Debug\net5.0\StackAndQueue-Lab.deps.json
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\bin\Debug\net5.0\StackAndQueue-Lab.runtimeconfig.json
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\bin\Debug\net5.0\StackAndQueue-Lab.runtimeconfig.dev.json
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\bin\Debug\net5.0\StackAndQueue-Lab.dll
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\bin\Debug\net5.0\ref\StackAndQueue-Lab.dll
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\bin\Debug\net5.0\StackAndQueue-Lab.pdb
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\obj\Debug\net5.0\StackAndQueue-Lab.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\obj\Debug\net5.0\StackAndQueue-Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\obj\Debug\net5.0\StackAndQueue-Lab.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\obj\Debug\net5.0\StackAndQueue-Lab.AssemblyInfo.cs
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\obj\Debug\net5.0\StackAndQueue-Lab.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\obj\Debug\net5.0\StackAndQueue-Lab.dll
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\obj\Debug\net5.0\ref\StackAndQueue-Lab.dll
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\obj\Debug\net5.0\StackAndQueue-Lab.pdb
+D:\Dani\SoftUni\StackAndQueue-Lab\StackAndQueue-Lab\obj\Debug\net5.0\StackAndQueue-Lab.genruntimeconfig.cache

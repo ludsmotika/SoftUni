@@ -1,0 +1,16 @@
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\bin\Debug\net5.0\04.exe
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\bin\Debug\net5.0\04.deps.json
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\bin\Debug\net5.0\04.runtimeconfig.json
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\bin\Debug\net5.0\04.runtimeconfig.dev.json
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\bin\Debug\net5.0\04.dll
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\bin\Debug\net5.0\ref\04.dll
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\bin\Debug\net5.0\04.pdb
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\obj\Debug\net5.0\04.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\obj\Debug\net5.0\04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\obj\Debug\net5.0\04.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\obj\Debug\net5.0\04.AssemblyInfo.cs
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\obj\Debug\net5.0\04.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\obj\Debug\net5.0\04.dll
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\obj\Debug\net5.0\ref\04.dll
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\obj\Debug\net5.0\04.pdb
+D:\Dani\SoftUni\SetsAndDictionaries-Lab\04\obj\Debug\net5.0\04.genruntimeconfig.cache

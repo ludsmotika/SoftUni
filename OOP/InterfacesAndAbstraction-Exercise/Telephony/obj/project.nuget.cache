@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eaTSGBUFg/8L6o/JwSq7mYfeR5olqu0GhKTbxJWiQG1YcF+H2nyz+L8Rt1Rab00nRXYlWJfSX063kAQw3RjSvQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\C# Advanced\\OOP\\InterfacesAndAbstraction-Exercise\\Telephony\\Telephony.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

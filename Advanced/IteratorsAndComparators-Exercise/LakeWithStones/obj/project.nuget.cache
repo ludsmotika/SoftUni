@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zbQatOBd7gXC3X/z3WqECTR0Se3Hcej3stmEyyh2dtQH2n0r/1GPAd1IEi+hdZFsCfIP60W0ewbJXoW9ga1HXw==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\IteratorsAndComparators-Exercise\\LakeWithStones\\LakeWithStones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

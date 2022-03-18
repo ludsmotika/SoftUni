@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "abc9dd6a-710f-4e11-b952-668f7ef7f8ee": {
+      "ProjectGuid": "abc9dd6a-710f-4e11-b952-668f7ef7f8ee",
+      "DisplayName": "ExamPreparation-Advanced 13.02.2022",
+      "ColorIndex": 0
+    },
+    "ffe19c09-4ae6-4681-8503-e2797d7cb768": {
+      "ProjectGuid": "ffe19c09-4ae6-4681-8503-e2797d7cb768",
+      "DisplayName": "SuperMario",
+      "ColorIndex": 1
+    },
+    "8293159e-58da-4e9f-bd24-901d5b20c963": {
+      "ProjectGuid": "8293159e-58da-4e9f-bd24-901d5b20c963",
+      "DisplayName": "01. Warm Winter",
+      "ColorIndex": 2
+    },
+    "139b226f-66c5-4822-9c1b-b20d90852168": {
+      "ProjectGuid": "139b226f-66c5-4822-9c1b-b20d90852168",
+      "DisplayName": "WarShips",
+      "ColorIndex": 3
+    },
+    "2fd4db72-de13-4d75-9559-017632b23706": {
+      "ProjectGuid": "2fd4db72-de13-4d75-9559-017632b23706",
+      "DisplayName": "фуцкофф",
+      "ColorIndex": 4
+    },
+    "e5fd82c8-721f-45b1-a92f-c886667d5eed": {
+      "ProjectGuid": "e5fd82c8-721f-45b1-a92f-c886667d5eed",
+      "DisplayName": "01. Flower Wreaths",
+      "ColorIndex": 5
+    },
+    "97a14731-4d30-435e-9ad7-40c665d683e1": {
+      "ProjectGuid": "97a14731-4d30-435e-9ad7-40c665d683e1",
+      "DisplayName": "Bee",
+      "ColorIndex": 6
+    },
+    "967d285a-4084-463b-a2c7-534e265f3024": {
+      "ProjectGuid": "967d285a-4084-463b-a2c7-534e265f3024",
+      "DisplayName": "01.Masterchef",
+      "ColorIndex": 7
+    },
+    "31f79c45-7c8a-407f-8b44-4837be0b7da2": {
+      "ProjectGuid": "31f79c45-7c8a-407f-8b44-4837be0b7da2",
+      "DisplayName": "02.Survivor",
+      "ColorIndex": 8
+    },
+    "86f03d25-ee86-4118-95dd-412baed8075a": {
+      "ProjectGuid": "86f03d25-ee86-4118-95dd-412baed8075a",
+      "DisplayName": "01",
+      "ColorIndex": 9
+    },
+    "e58fa227-6056-4997-a310-3b0705145883": {
+      "ProjectGuid": "e58fa227-6056-4997-a310-3b0705145883",
+      "DisplayName": "02",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

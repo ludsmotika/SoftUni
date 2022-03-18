@@ -1,0 +1,14 @@
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\04\bin\Debug\netcoreapp3.1\04.exe
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\04\bin\Debug\netcoreapp3.1\04.deps.json
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\04\bin\Debug\netcoreapp3.1\04.runtimeconfig.json
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\04\bin\Debug\netcoreapp3.1\04.runtimeconfig.dev.json
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\04\bin\Debug\netcoreapp3.1\04.dll
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\04\bin\Debug\netcoreapp3.1\04.pdb
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\04\obj\Debug\netcoreapp3.1\04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\04\obj\Debug\netcoreapp3.1\04.AssemblyInfoInputs.cache
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\04\obj\Debug\netcoreapp3.1\04.AssemblyInfo.cs
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\04\obj\Debug\netcoreapp3.1\04.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\04\obj\Debug\netcoreapp3.1\04.dll
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\04\obj\Debug\netcoreapp3.1\04.pdb
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\04\obj\Debug\netcoreapp3.1\04.genruntimeconfig.cache
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\04\obj\Debug\netcoreapp3.1\04.csproj.AssemblyReference.cache

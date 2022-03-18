@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\LakeWithStones\bin\Debug\netcoreapp3.1\LakeWithStones.exe
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\LakeWithStones\bin\Debug\netcoreapp3.1\LakeWithStones.deps.json
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\LakeWithStones\bin\Debug\netcoreapp3.1\LakeWithStones.runtimeconfig.json
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\LakeWithStones\bin\Debug\netcoreapp3.1\LakeWithStones.runtimeconfig.dev.json
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\LakeWithStones\bin\Debug\netcoreapp3.1\LakeWithStones.dll
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\LakeWithStones\bin\Debug\netcoreapp3.1\LakeWithStones.pdb
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\LakeWithStones\obj\Debug\netcoreapp3.1\LakeWithStones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\LakeWithStones\obj\Debug\netcoreapp3.1\LakeWithStones.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\LakeWithStones\obj\Debug\netcoreapp3.1\LakeWithStones.AssemblyInfo.cs
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\LakeWithStones\obj\Debug\netcoreapp3.1\LakeWithStones.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\LakeWithStones\obj\Debug\netcoreapp3.1\LakeWithStones.dll
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\LakeWithStones\obj\Debug\netcoreapp3.1\LakeWithStones.pdb
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\LakeWithStones\obj\Debug\netcoreapp3.1\LakeWithStones.genruntimeconfig.cache
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\LakeWithStones\obj\Debug\netcoreapp3.1\LakeWithStones.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.exe
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.deps.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.runtimeconfig.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.runtimeconfig.dev.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.dll
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.pdb
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.AssemblyInfo.cs
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.dll
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.pdb
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.genruntimeconfig.cache

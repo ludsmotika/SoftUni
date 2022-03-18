@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5df0305c-2dae-4326-95fc-b6a37e828b24": {
+      "ProjectGuid": "5df0305c-2dae-4326-95fc-b6a37e828b24",
+      "DisplayName": "Farm",
+      "ColorIndex": 0
+    },
+    "913696ee-8bd9-43fb-81e8-052cdfc6cd6a": {
+      "ProjectGuid": "913696ee-8bd9-43fb-81e8-052cdfc6cd6a",
+      "DisplayName": "CustomRandomList",
+      "ColorIndex": 1
+    },
+    "72422cb6-144c-473d-9cbc-68d7b49a6f0c": {
+      "ProjectGuid": "72422cb6-144c-473d-9cbc-68d7b49a6f0c",
+      "DisplayName": "CustomStack",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

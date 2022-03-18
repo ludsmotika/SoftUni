@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\DefiningClasses-Exercise\DefiningClasses-Exercise\bin\Debug\netcoreapp3.1\DefiningClasses-Exercise.exe
+D:\Dani\SoftUni\DefiningClasses-Exercise\DefiningClasses-Exercise\bin\Debug\netcoreapp3.1\DefiningClasses-Exercise.deps.json
+D:\Dani\SoftUni\DefiningClasses-Exercise\DefiningClasses-Exercise\bin\Debug\netcoreapp3.1\DefiningClasses-Exercise.runtimeconfig.json
+D:\Dani\SoftUni\DefiningClasses-Exercise\DefiningClasses-Exercise\bin\Debug\netcoreapp3.1\DefiningClasses-Exercise.runtimeconfig.dev.json
+D:\Dani\SoftUni\DefiningClasses-Exercise\DefiningClasses-Exercise\bin\Debug\netcoreapp3.1\DefiningClasses-Exercise.dll
+D:\Dani\SoftUni\DefiningClasses-Exercise\DefiningClasses-Exercise\bin\Debug\netcoreapp3.1\DefiningClasses-Exercise.pdb
+D:\Dani\SoftUni\DefiningClasses-Exercise\DefiningClasses-Exercise\obj\Debug\netcoreapp3.1\DefiningClasses-Exercise.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\DefiningClasses-Exercise\DefiningClasses-Exercise\obj\Debug\netcoreapp3.1\DefiningClasses-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\DefiningClasses-Exercise\DefiningClasses-Exercise\obj\Debug\netcoreapp3.1\DefiningClasses-Exercise.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\DefiningClasses-Exercise\DefiningClasses-Exercise\obj\Debug\netcoreapp3.1\DefiningClasses-Exercise.AssemblyInfo.cs
+D:\Dani\SoftUni\DefiningClasses-Exercise\DefiningClasses-Exercise\obj\Debug\netcoreapp3.1\DefiningClasses-Exercise.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\DefiningClasses-Exercise\DefiningClasses-Exercise\obj\Debug\netcoreapp3.1\DefiningClasses-Exercise.dll
+D:\Dani\SoftUni\DefiningClasses-Exercise\DefiningClasses-Exercise\obj\Debug\netcoreapp3.1\DefiningClasses-Exercise.pdb
+D:\Dani\SoftUni\DefiningClasses-Exercise\DefiningClasses-Exercise\obj\Debug\netcoreapp3.1\DefiningClasses-Exercise.genruntimeconfig.cache

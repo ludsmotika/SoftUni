@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\DefiningClasses-Exercise\6. Speed Racing\bin\Debug\netcoreapp3.1\6. Speed Racing.exe
+D:\Dani\SoftUni\DefiningClasses-Exercise\6. Speed Racing\bin\Debug\netcoreapp3.1\6. Speed Racing.deps.json
+D:\Dani\SoftUni\DefiningClasses-Exercise\6. Speed Racing\bin\Debug\netcoreapp3.1\6. Speed Racing.runtimeconfig.json
+D:\Dani\SoftUni\DefiningClasses-Exercise\6. Speed Racing\bin\Debug\netcoreapp3.1\6. Speed Racing.runtimeconfig.dev.json
+D:\Dani\SoftUni\DefiningClasses-Exercise\6. Speed Racing\bin\Debug\netcoreapp3.1\6. Speed Racing.dll
+D:\Dani\SoftUni\DefiningClasses-Exercise\6. Speed Racing\bin\Debug\netcoreapp3.1\6. Speed Racing.pdb
+D:\Dani\SoftUni\DefiningClasses-Exercise\6. Speed Racing\obj\Debug\netcoreapp3.1\6. Speed Racing.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\DefiningClasses-Exercise\6. Speed Racing\obj\Debug\netcoreapp3.1\6. Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\DefiningClasses-Exercise\6. Speed Racing\obj\Debug\netcoreapp3.1\6. Speed Racing.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\DefiningClasses-Exercise\6. Speed Racing\obj\Debug\netcoreapp3.1\6. Speed Racing.AssemblyInfo.cs
+D:\Dani\SoftUni\DefiningClasses-Exercise\6. Speed Racing\obj\Debug\netcoreapp3.1\6. Speed Racing.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\DefiningClasses-Exercise\6. Speed Racing\obj\Debug\netcoreapp3.1\6. Speed Racing.dll
+D:\Dani\SoftUni\DefiningClasses-Exercise\6. Speed Racing\obj\Debug\netcoreapp3.1\6. Speed Racing.pdb
+D:\Dani\SoftUni\DefiningClasses-Exercise\6. Speed Racing\obj\Debug\netcoreapp3.1\6. Speed Racing.genruntimeconfig.cache

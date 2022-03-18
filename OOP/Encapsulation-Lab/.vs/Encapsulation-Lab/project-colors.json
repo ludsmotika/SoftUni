@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13a71645-6564-4203-8859-09ddba950de8": {
+      "ProjectGuid": "13a71645-6564-4203-8859-09ddba950de8",
+      "DisplayName": "Encapsulation-Lab",
+      "ColorIndex": 0
+    },
+    "8c82fb55-3bca-4820-8165-ccd648a75dbc": {
+      "ProjectGuid": "8c82fb55-3bca-4820-8165-ccd648a75dbc",
+      "DisplayName": "PersonsInfo",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

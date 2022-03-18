@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8631985b-b971-4923-95b0-8727fd715224": {
+      "ProjectGuid": "8631985b-b971-4923-95b0-8727fd715224",
+      "DisplayName": "06",
+      "ColorIndex": 0
+    },
+    "a7aab949-0d2d-43e4-92c6-e8d5dcc9a3e3": {
+      "ProjectGuid": "a7aab949-0d2d-43e4-92c6-e8d5dcc9a3e3",
+      "DisplayName": "05",
+      "ColorIndex": 1
+    },
+    "237b6739-0edf-4407-b7bb-c09bf0dc4eba": {
+      "ProjectGuid": "237b6739-0edf-4407-b7bb-c09bf0dc4eba",
+      "DisplayName": "12",
+      "ColorIndex": 2
+    },
+    "ac1fc8ed-8e94-429d-a0d9-8d76e7acc8e6": {
+      "ProjectGuid": "ac1fc8ed-8e94-429d-a0d9-8d76e7acc8e6",
+      "DisplayName": "07",
+      "ColorIndex": 3
+    },
+    "8e2b4f3e-99a7-4af3-98f8-19d2b71342c0": {
+      "ProjectGuid": "8e2b4f3e-99a7-4af3-98f8-19d2b71342c0",
+      "DisplayName": "10",
+      "ColorIndex": 4
+    },
+    "306553df-2215-4ff6-b72b-106133d3daa7": {
+      "ProjectGuid": "306553df-2215-4ff6-b72b-106133d3daa7",
+      "DisplayName": "09",
+      "ColorIndex": 5
+    },
+    "bedb1428-43a9-4480-ae04-e2dbb8ce6982": {
+      "ProjectGuid": "bedb1428-43a9-4480-ae04-e2dbb8ce6982",
+      "DisplayName": "08",
+      "ColorIndex": 6
+    },
+    "7728a26f-d675-47b0-a722-633b20262eaa": {
+      "ProjectGuid": "7728a26f-d675-47b0-a722-633b20262eaa",
+      "DisplayName": "01",
+      "ColorIndex": 7
+    },
+    "abdd616a-f1db-47de-97fc-f1d95a1ba3b6": {
+      "ProjectGuid": "abdd616a-f1db-47de-97fc-f1d95a1ba3b6",
+      "DisplayName": "04",
+      "ColorIndex": 8
+    },
+    "5f016fcb-9cbe-4386-9e63-19ec49a1ba51": {
+      "ProjectGuid": "5f016fcb-9cbe-4386-9e63-19ec49a1ba51",
+      "DisplayName": "03",
+      "ColorIndex": 9
+    },
+    "d76a3b08-c63b-47af-9d00-c4c89535d34a": {
+      "ProjectGuid": "d76a3b08-c63b-47af-9d00-c4c89535d34a",
+      "DisplayName": "02",
+      "ColorIndex": 10
+    },
+    "1524092c-cf0c-46c1-b78f-2ee26887abba": {
+      "ProjectGuid": "1524092c-cf0c-46c1-b78f-2ee26887abba",
+      "DisplayName": "11",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

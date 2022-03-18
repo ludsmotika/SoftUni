@@ -1,0 +1,14 @@
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfacesAndAbstraction.exe
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfacesAndAbstraction.deps.json
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfacesAndAbstraction.runtimeconfig.json
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfacesAndAbstraction.runtimeconfig.dev.json
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfacesAndAbstraction.dll
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfacesAndAbstraction.pdb
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfacesAndAbstraction.csproj.AssemblyReference.cache
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfacesAndAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfacesAndAbstraction.AssemblyInfoInputs.cache
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfacesAndAbstraction.AssemblyInfo.cs
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfacesAndAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfacesAndAbstraction.dll
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfacesAndAbstraction.pdb
+C:\Users\Daniel\Downloads\03. CSharp-OOP-Interfaces-and-Abstraction-Military-Elite-Solution\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfacesAndAbstraction.genruntimeconfig.cache

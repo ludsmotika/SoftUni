@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b82714af-29e0-4a1f-b55f-8f1fcc1d2412": {
+      "ProjectGuid": "b82714af-29e0-4a1f-b55f-8f1fcc1d2412",
+      "DisplayName": "InterfacesAndAbstraction",
+      "ColorIndex": 0
+    },
+    "5ba5607d-6950-4ce9-9b47-e82b0aa323e5": {
+      "ProjectGuid": "5ba5607d-6950-4ce9-9b47-e82b0aa323e5",
+      "DisplayName": "PersonInfo",
+      "ColorIndex": 1
+    },
+    "6b090101-4b95-4475-974e-09c8585c93d3": {
+      "ProjectGuid": "6b090101-4b95-4475-974e-09c8585c93d3",
+      "DisplayName": "Telephony",
+      "ColorIndex": 2
+    },
+    "fcf2f8a3-4aac-4308-932a-0818c74c3b93": {
+      "ProjectGuid": "fcf2f8a3-4aac-4308-932a-0818c74c3b93",
+      "DisplayName": "04",
+      "ColorIndex": 3
+    },
+    "15ed3cae-9947-49ff-9c35-e5c341897f21": {
+      "ProjectGuid": "15ed3cae-9947-49ff-9c35-e5c341897f21",
+      "DisplayName": "MilitaryElite",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ibgCRrtMWl9w/cBHzQDA/tOYiG7uu7sqiVbmY2Q7UIXz6mDjcSpqKu+QDBUoskLNAXlwuov0gZA8wd6xuceYmg==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\C# Advanced\\OOP\\ExceptionsAndErrorHandling-Lab\\02\\02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

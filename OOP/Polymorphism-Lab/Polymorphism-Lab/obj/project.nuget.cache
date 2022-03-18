@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OgxZOpejlF2WBBhkEs9LXR9n9maJHbJt4pbYG45qpbiBqmKa31xJ+UBOHKM561Qw1Hfdqa7PkSm1dRHoQENF1Q==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\C# Advanced\\OOP\\Polymorphism-Lab\\Polymorphism-Lab\\Polymorphism-Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

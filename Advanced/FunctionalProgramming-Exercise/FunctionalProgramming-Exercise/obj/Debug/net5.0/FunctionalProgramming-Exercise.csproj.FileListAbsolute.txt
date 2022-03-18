@@ -1,0 +1,16 @@
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\bin\Debug\net5.0\FunctionalProgramming-Exercise.exe
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\bin\Debug\net5.0\FunctionalProgramming-Exercise.deps.json
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\bin\Debug\net5.0\FunctionalProgramming-Exercise.runtimeconfig.json
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\bin\Debug\net5.0\FunctionalProgramming-Exercise.runtimeconfig.dev.json
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\bin\Debug\net5.0\FunctionalProgramming-Exercise.dll
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\bin\Debug\net5.0\ref\FunctionalProgramming-Exercise.dll
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\bin\Debug\net5.0\FunctionalProgramming-Exercise.pdb
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\obj\Debug\net5.0\FunctionalProgramming-Exercise.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\obj\Debug\net5.0\FunctionalProgramming-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\obj\Debug\net5.0\FunctionalProgramming-Exercise.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\obj\Debug\net5.0\FunctionalProgramming-Exercise.AssemblyInfo.cs
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\obj\Debug\net5.0\FunctionalProgramming-Exercise.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\obj\Debug\net5.0\FunctionalProgramming-Exercise.dll
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\obj\Debug\net5.0\ref\FunctionalProgramming-Exercise.dll
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\obj\Debug\net5.0\FunctionalProgramming-Exercise.pdb
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\FunctionalProgramming-Exercise\obj\Debug\net5.0\FunctionalProgramming-Exercise.genruntimeconfig.cache

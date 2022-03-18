@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "It2XhhwTapjZknCSluovRk3Lo0iv0locIbf3H4ekmTZa0pFMEX32wJLPDtaL+Ac4lNGMLz1CjD1ATfM+9rKOYg==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\ExamPreparation-Advanced 13.02.2022\\old\\old.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

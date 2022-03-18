@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02\obj\Debug\netcoreapp3.1\02.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02\obj\Debug\netcoreapp3.1\02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02\obj\Debug\netcoreapp3.1\02.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02\obj\Debug\netcoreapp3.1\02.AssemblyInfo.cs
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02\obj\Debug\netcoreapp3.1\02.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02\bin\Debug\netcoreapp3.1\02.exe
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02\bin\Debug\netcoreapp3.1\02.deps.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02\bin\Debug\netcoreapp3.1\02.runtimeconfig.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02\bin\Debug\netcoreapp3.1\02.runtimeconfig.dev.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02\bin\Debug\netcoreapp3.1\02.dll
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02\bin\Debug\netcoreapp3.1\02.pdb
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02\obj\Debug\netcoreapp3.1\02.dll
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02\obj\Debug\netcoreapp3.1\02.pdb
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\02\obj\Debug\netcoreapp3.1\02.genruntimeconfig.cache

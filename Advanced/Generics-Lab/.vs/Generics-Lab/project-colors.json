@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "49927a26-9e3b-4add-8a2e-f6e43cd2200e": {
+      "ProjectGuid": "49927a26-9e3b-4add-8a2e-f6e43cd2200e",
+      "DisplayName": "BoxOfT",
+      "ColorIndex": 0
+    },
+    "7343492d-bd3d-46fd-b57d-88eff40ad65e": {
+      "ProjectGuid": "7343492d-bd3d-46fd-b57d-88eff40ad65e",
+      "DisplayName": "GenericArrayCreator",
+      "ColorIndex": 1
+    },
+    "a67d30ca-7127-42d9-9e9f-91cdbbf45a24": {
+      "ProjectGuid": "a67d30ca-7127-42d9-9e9f-91cdbbf45a24",
+      "DisplayName": "GenericScale",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

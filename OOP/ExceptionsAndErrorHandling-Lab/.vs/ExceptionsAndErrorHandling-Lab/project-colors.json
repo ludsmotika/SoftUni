@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10a59ef3-a67b-4b48-a3f5-249d292aecea": {
+      "ProjectGuid": "10a59ef3-a67b-4b48-a3f5-249d292aecea",
+      "DisplayName": "03",
+      "ColorIndex": 0
+    },
+    "94af1ff5-4073-44da-995b-4e6cfe69de71": {
+      "ProjectGuid": "94af1ff5-4073-44da-995b-4e6cfe69de71",
+      "DisplayName": "02",
+      "ColorIndex": 1
+    },
+    "7f7a22ed-68b2-4800-b800-97dbb246abd6": {
+      "ProjectGuid": "7f7a22ed-68b2-4800-b800-97dbb246abd6",
+      "DisplayName": "ExceptionsAndErrorHandling-Lab",
+      "ColorIndex": 2
+    },
+    "5ca67b52-47c5-49dc-8fc2-9ebada016f68": {
+      "ProjectGuid": "5ca67b52-47c5-49dc-8fc2-9ebada016f68",
+      "DisplayName": "PlayCatch-05",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

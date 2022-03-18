@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce12aa4c-3dc6-4fe3-9e3b-6dcb22ecfe07": {
+      "ProjectGuid": "ce12aa4c-3dc6-4fe3-9e3b-6dcb22ecfe07",
+      "DisplayName": "CopyBinaryFile",
+      "ColorIndex": 0
+    },
+    "771b504c-43fe-4128-ada3-1e39462d9de1": {
+      "ProjectGuid": "771b504c-43fe-4128-ada3-1e39462d9de1",
+      "DisplayName": "EvenLines",
+      "ColorIndex": 1
+    },
+    "76aa97b7-6fb6-4dab-8cce-a4bf39a6afeb": {
+      "ProjectGuid": "76aa97b7-6fb6-4dab-8cce-a4bf39a6afeb",
+      "DisplayName": "LineNumbers",
+      "ColorIndex": 2
+    },
+    "3564004f-29bb-4f4b-8e46-126feb938e2d": {
+      "ProjectGuid": "3564004f-29bb-4f4b-8e46-126feb938e2d",
+      "DisplayName": "CopyDirectory",
+      "ColorIndex": 3
+    },
+    "e38dc2db-c03c-497a-bd3e-c2c9934a0832": {
+      "ProjectGuid": "e38dc2db-c03c-497a-bd3e-c2c9934a0832",
+      "DisplayName": "DirectoryTraversal",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "46fd4dae-85d2-4fa9-9c18-70c69e55a5d1": {
+      "ProjectGuid": "46fd4dae-85d2-4fa9-9c18-70c69e55a5d1",
+      "DisplayName": "ZipAndExtract",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

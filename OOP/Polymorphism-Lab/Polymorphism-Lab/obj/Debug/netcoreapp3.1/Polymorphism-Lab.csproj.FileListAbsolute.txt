@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Lab\Polymorphism-Lab\bin\Debug\netcoreapp3.1\Polymorphism-Lab.exe
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Lab\Polymorphism-Lab\bin\Debug\netcoreapp3.1\Polymorphism-Lab.deps.json
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Lab\Polymorphism-Lab\bin\Debug\netcoreapp3.1\Polymorphism-Lab.runtimeconfig.json
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Lab\Polymorphism-Lab\bin\Debug\netcoreapp3.1\Polymorphism-Lab.runtimeconfig.dev.json
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Lab\Polymorphism-Lab\bin\Debug\netcoreapp3.1\Polymorphism-Lab.dll
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Lab\Polymorphism-Lab\bin\Debug\netcoreapp3.1\Polymorphism-Lab.pdb
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Lab\Polymorphism-Lab\obj\Debug\netcoreapp3.1\Polymorphism-Lab.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Lab\Polymorphism-Lab\obj\Debug\netcoreapp3.1\Polymorphism-Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Lab\Polymorphism-Lab\obj\Debug\netcoreapp3.1\Polymorphism-Lab.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Lab\Polymorphism-Lab\obj\Debug\netcoreapp3.1\Polymorphism-Lab.AssemblyInfo.cs
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Lab\Polymorphism-Lab\obj\Debug\netcoreapp3.1\Polymorphism-Lab.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Lab\Polymorphism-Lab\obj\Debug\netcoreapp3.1\Polymorphism-Lab.dll
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Lab\Polymorphism-Lab\obj\Debug\netcoreapp3.1\Polymorphism-Lab.pdb
+D:\Dani\SoftUni\C# Advanced\OOP\Polymorphism-Lab\Polymorphism-Lab\obj\Debug\netcoreapp3.1\Polymorphism-Lab.genruntimeconfig.cache

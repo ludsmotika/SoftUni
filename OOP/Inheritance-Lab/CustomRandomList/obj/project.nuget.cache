@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RhD+eJp0ZBTUL5rda7QiGmr9nueWbDOqfHQnC5a945hEdIeqznyMt40ZmKKOTj6QqWk2SL0tQzingE/cpduQiA==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\C# Advanced\\OOP\\Inheritance-Lab\\CustomRandomList\\CustomRandomList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

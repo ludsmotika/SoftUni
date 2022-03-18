@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ec/fp2+GMAYgM5eC/PcZMt1uJ58FHudtQ3AnJxl7p46kiK6kCo1v+Li+U30Ek75XA60eIxPXJcr0UItRl/Mk8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\DefiningClasses-Exercise\\CarSalesman\\CarSalesman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\bin\Debug\net5.0\03.exe
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\bin\Debug\net5.0\03.deps.json
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\bin\Debug\net5.0\03.runtimeconfig.json
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\bin\Debug\net5.0\03.runtimeconfig.dev.json
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\bin\Debug\net5.0\03.dll
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\bin\Debug\net5.0\ref\03.dll
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\bin\Debug\net5.0\03.pdb
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\obj\Debug\net5.0\03.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\obj\Debug\net5.0\03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\obj\Debug\net5.0\03.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\obj\Debug\net5.0\03.AssemblyInfo.cs
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\obj\Debug\net5.0\03.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\obj\Debug\net5.0\03.dll
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\obj\Debug\net5.0\ref\03.dll
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\obj\Debug\net5.0\03.pdb
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\03\obj\Debug\net5.0\03.genruntimeconfig.cache

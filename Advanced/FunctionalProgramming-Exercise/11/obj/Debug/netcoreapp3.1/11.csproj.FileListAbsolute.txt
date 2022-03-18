@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\11\bin\Debug\netcoreapp3.1\11.exe
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\11\bin\Debug\netcoreapp3.1\11.deps.json
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\11\bin\Debug\netcoreapp3.1\11.runtimeconfig.json
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\11\bin\Debug\netcoreapp3.1\11.runtimeconfig.dev.json
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\11\bin\Debug\netcoreapp3.1\11.dll
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\11\bin\Debug\netcoreapp3.1\11.pdb
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\11\obj\Debug\netcoreapp3.1\11.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\11\obj\Debug\netcoreapp3.1\11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\11\obj\Debug\netcoreapp3.1\11.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\11\obj\Debug\netcoreapp3.1\11.AssemblyInfo.cs
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\11\obj\Debug\netcoreapp3.1\11.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\11\obj\Debug\netcoreapp3.1\11.dll
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\11\obj\Debug\netcoreapp3.1\11.pdb
+D:\Dani\SoftUni\FunctionalProgramming-Exercise\11\obj\Debug\netcoreapp3.1\11.genruntimeconfig.cache

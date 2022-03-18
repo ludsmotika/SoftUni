@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp3.1\Generics-Exercise.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp3.1\Generics-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp3.1\Generics-Exercise.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp3.1\Generics-Exercise.AssemblyInfo.cs
+D:\Dani\SoftUni\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp3.1\Generics-Exercise.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp3.1\Generics-Exercise.exe
+D:\Dani\SoftUni\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp3.1\Generics-Exercise.deps.json
+D:\Dani\SoftUni\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp3.1\Generics-Exercise.runtimeconfig.json
+D:\Dani\SoftUni\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp3.1\Generics-Exercise.runtimeconfig.dev.json
+D:\Dani\SoftUni\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp3.1\Generics-Exercise.dll
+D:\Dani\SoftUni\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp3.1\Generics-Exercise.pdb
+D:\Dani\SoftUni\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp3.1\Generics-Exercise.dll
+D:\Dani\SoftUni\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp3.1\Generics-Exercise.pdb
+D:\Dani\SoftUni\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp3.1\Generics-Exercise.genruntimeconfig.cache

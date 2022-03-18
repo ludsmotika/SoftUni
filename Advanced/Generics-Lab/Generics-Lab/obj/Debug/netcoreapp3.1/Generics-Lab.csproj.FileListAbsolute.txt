@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\Generics-Lab\Generics-Lab\bin\Debug\netcoreapp3.1\Generics-Lab.exe
+D:\Dani\SoftUni\Generics-Lab\Generics-Lab\bin\Debug\netcoreapp3.1\Generics-Lab.deps.json
+D:\Dani\SoftUni\Generics-Lab\Generics-Lab\bin\Debug\netcoreapp3.1\Generics-Lab.runtimeconfig.json
+D:\Dani\SoftUni\Generics-Lab\Generics-Lab\bin\Debug\netcoreapp3.1\Generics-Lab.runtimeconfig.dev.json
+D:\Dani\SoftUni\Generics-Lab\Generics-Lab\bin\Debug\netcoreapp3.1\Generics-Lab.dll
+D:\Dani\SoftUni\Generics-Lab\Generics-Lab\bin\Debug\netcoreapp3.1\Generics-Lab.pdb
+D:\Dani\SoftUni\Generics-Lab\Generics-Lab\obj\Debug\netcoreapp3.1\Generics-Lab.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\Generics-Lab\Generics-Lab\obj\Debug\netcoreapp3.1\Generics-Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\Generics-Lab\Generics-Lab\obj\Debug\netcoreapp3.1\Generics-Lab.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\Generics-Lab\Generics-Lab\obj\Debug\netcoreapp3.1\Generics-Lab.AssemblyInfo.cs
+D:\Dani\SoftUni\Generics-Lab\Generics-Lab\obj\Debug\netcoreapp3.1\Generics-Lab.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\Generics-Lab\Generics-Lab\obj\Debug\netcoreapp3.1\Generics-Lab.dll
+D:\Dani\SoftUni\Generics-Lab\Generics-Lab\obj\Debug\netcoreapp3.1\Generics-Lab.pdb
+D:\Dani\SoftUni\Generics-Lab\Generics-Lab\obj\Debug\netcoreapp3.1\Generics-Lab.genruntimeconfig.cache

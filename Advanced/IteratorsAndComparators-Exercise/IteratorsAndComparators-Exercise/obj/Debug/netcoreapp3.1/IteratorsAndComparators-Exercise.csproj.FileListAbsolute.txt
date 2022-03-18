@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\IteratorsAndComparators-Exercise\bin\Debug\netcoreapp3.1\IteratorsAndComparators-Exercise.exe
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\IteratorsAndComparators-Exercise\bin\Debug\netcoreapp3.1\IteratorsAndComparators-Exercise.deps.json
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\IteratorsAndComparators-Exercise\bin\Debug\netcoreapp3.1\IteratorsAndComparators-Exercise.runtimeconfig.json
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\IteratorsAndComparators-Exercise\bin\Debug\netcoreapp3.1\IteratorsAndComparators-Exercise.runtimeconfig.dev.json
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\IteratorsAndComparators-Exercise\bin\Debug\netcoreapp3.1\IteratorsAndComparators-Exercise.dll
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\IteratorsAndComparators-Exercise\bin\Debug\netcoreapp3.1\IteratorsAndComparators-Exercise.pdb
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\IteratorsAndComparators-Exercise\obj\Debug\netcoreapp3.1\IteratorsAndComparators-Exercise.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\IteratorsAndComparators-Exercise\obj\Debug\netcoreapp3.1\IteratorsAndComparators-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\IteratorsAndComparators-Exercise\obj\Debug\netcoreapp3.1\IteratorsAndComparators-Exercise.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\IteratorsAndComparators-Exercise\obj\Debug\netcoreapp3.1\IteratorsAndComparators-Exercise.AssemblyInfo.cs
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\IteratorsAndComparators-Exercise\obj\Debug\netcoreapp3.1\IteratorsAndComparators-Exercise.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\IteratorsAndComparators-Exercise\obj\Debug\netcoreapp3.1\IteratorsAndComparators-Exercise.dll
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\IteratorsAndComparators-Exercise\obj\Debug\netcoreapp3.1\IteratorsAndComparators-Exercise.pdb
+D:\Dani\SoftUni\IteratorsAndComparators-Exercise\IteratorsAndComparators-Exercise\obj\Debug\netcoreapp3.1\IteratorsAndComparators-Exercise.genruntimeconfig.cache

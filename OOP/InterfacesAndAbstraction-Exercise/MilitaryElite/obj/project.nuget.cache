@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YCuCCwIOoA6BdkSWak/iIPRcARtZELiL3DO5TQeDK++4MVJuOcDLIuuplb8cUc5s9CBzoTjZD/f3tftY0G37sQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\C# Advanced\\OOP\\InterfacesAndAbstraction-Exercise\\MilitaryElite\\MilitaryElite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

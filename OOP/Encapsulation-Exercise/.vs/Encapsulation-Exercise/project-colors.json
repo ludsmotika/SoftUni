@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e148f5ea-25c8-40b6-9a9b-bd0e1c2758de": {
+      "ProjectGuid": "e148f5ea-25c8-40b6-9a9b-bd0e1c2758de",
+      "DisplayName": "Encapsulation-Exercise",
+      "ColorIndex": 0
+    },
+    "a2811d18-9136-4a4d-afa3-7aa97e6cdf44": {
+      "ProjectGuid": "a2811d18-9136-4a4d-afa3-7aa97e6cdf44",
+      "DisplayName": "03",
+      "ColorIndex": 1
+    },
+    "fd4475d0-64e8-4f8d-a5df-2f0ce17ba3cd": {
+      "ProjectGuid": "fd4475d0-64e8-4f8d-a5df-2f0ce17ba3cd",
+      "DisplayName": "04",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

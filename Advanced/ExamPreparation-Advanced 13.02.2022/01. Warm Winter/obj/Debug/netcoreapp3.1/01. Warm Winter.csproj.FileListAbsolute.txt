@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.exe
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.deps.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.runtimeconfig.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.runtimeconfig.dev.json
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.dll
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.pdb
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.AssemblyInfo.cs
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.dll
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.pdb
+D:\Dani\SoftUni\ExamPreparation-Advanced 13.02.2022\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.genruntimeconfig.cache

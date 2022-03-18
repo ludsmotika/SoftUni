@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\C# Advanced\OOP\Encapsulation-Exercise\Encapsulation-Exercise\bin\Debug\netcoreapp3.1\Encapsulation-Exercise.exe
+D:\Dani\SoftUni\C# Advanced\OOP\Encapsulation-Exercise\Encapsulation-Exercise\bin\Debug\netcoreapp3.1\Encapsulation-Exercise.deps.json
+D:\Dani\SoftUni\C# Advanced\OOP\Encapsulation-Exercise\Encapsulation-Exercise\bin\Debug\netcoreapp3.1\Encapsulation-Exercise.runtimeconfig.json
+D:\Dani\SoftUni\C# Advanced\OOP\Encapsulation-Exercise\Encapsulation-Exercise\bin\Debug\netcoreapp3.1\Encapsulation-Exercise.runtimeconfig.dev.json
+D:\Dani\SoftUni\C# Advanced\OOP\Encapsulation-Exercise\Encapsulation-Exercise\bin\Debug\netcoreapp3.1\Encapsulation-Exercise.dll
+D:\Dani\SoftUni\C# Advanced\OOP\Encapsulation-Exercise\Encapsulation-Exercise\bin\Debug\netcoreapp3.1\Encapsulation-Exercise.pdb
+D:\Dani\SoftUni\C# Advanced\OOP\Encapsulation-Exercise\Encapsulation-Exercise\obj\Debug\netcoreapp3.1\Encapsulation-Exercise.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\C# Advanced\OOP\Encapsulation-Exercise\Encapsulation-Exercise\obj\Debug\netcoreapp3.1\Encapsulation-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\C# Advanced\OOP\Encapsulation-Exercise\Encapsulation-Exercise\obj\Debug\netcoreapp3.1\Encapsulation-Exercise.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\C# Advanced\OOP\Encapsulation-Exercise\Encapsulation-Exercise\obj\Debug\netcoreapp3.1\Encapsulation-Exercise.AssemblyInfo.cs
+D:\Dani\SoftUni\C# Advanced\OOP\Encapsulation-Exercise\Encapsulation-Exercise\obj\Debug\netcoreapp3.1\Encapsulation-Exercise.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\C# Advanced\OOP\Encapsulation-Exercise\Encapsulation-Exercise\obj\Debug\netcoreapp3.1\Encapsulation-Exercise.dll
+D:\Dani\SoftUni\C# Advanced\OOP\Encapsulation-Exercise\Encapsulation-Exercise\obj\Debug\netcoreapp3.1\Encapsulation-Exercise.pdb
+D:\Dani\SoftUni\C# Advanced\OOP\Encapsulation-Exercise\Encapsulation-Exercise\obj\Debug\netcoreapp3.1\Encapsulation-Exercise.genruntimeconfig.cache

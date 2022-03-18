@@ -1,0 +1,14 @@
+D:\Dani\SoftUni\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.exe
+D:\Dani\SoftUni\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.deps.json
+D:\Dani\SoftUni\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.json
+D:\Dani\SoftUni\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.dev.json
+D:\Dani\SoftUni\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.dll
+D:\Dani\SoftUni\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+D:\Dani\SoftUni\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.AssemblyReference.cache
+D:\Dani\SoftUni\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\SoftUni\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfoInputs.cache
+D:\Dani\SoftUni\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfo.cs
+D:\Dani\SoftUni\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.CoreCompileInputs.cache
+D:\Dani\SoftUni\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.dll
+D:\Dani\SoftUni\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+D:\Dani\SoftUni\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.genruntimeconfig.cache
