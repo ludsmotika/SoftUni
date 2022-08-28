@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de47b27b-5034-4354-8460-de8ff70913bb": {
+      "ProjectGuid": "de47b27b-5034-4354-8460-de8ff70913bb",
+      "DisplayName": "ADO.NET-Exercise",
+      "ColorIndex": 0
+    },
+    "47409c47-e8fd-4b2d-b701-0784b75d4063": {
+      "ProjectGuid": "47409c47-e8fd-4b2d-b701-0784b75d4063",
+      "DisplayName": "03",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

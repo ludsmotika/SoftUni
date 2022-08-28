@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d10796fa-fb62-46a7-aec1-f23fe94af411": {
+      "ProjectGuid": "d10796fa-fb62-46a7-aec1-f23fe94af411",
+      "DisplayName": "P01_StudentSystem",
+      "ColorIndex": 0
+    },
+    "e5bb0c1b-aa78-4613-9bbc-ee6e6593c39e": {
+      "ProjectGuid": "e5bb0c1b-aa78-4613-9bbc-ee6e6593c39e",
+      "DisplayName": "P01_StudentSystem.Data",
+      "ColorIndex": 1
+    },
+    "25f6b498-99bf-4ae4-bcf8-e1c152f5d22d": {
+      "ProjectGuid": "25f6b498-99bf-4ae4-bcf8-e1c152f5d22d",
+      "DisplayName": "P01_StudentSystem.Data.Models",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b0ff71f0-3277-4cef-a497-28915b5d770e": {
+      "ProjectGuid": "b0ff71f0-3277-4cef-a497-28915b5d770e",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 3
+    },
+    "4dd108d2-73b1-41db-a362-c90cf73a23d8": {
+      "ProjectGuid": "4dd108d2-73b1-41db-a362-c90cf73a23d8",
+      "DisplayName": "P01_StudentSystem.Data",
+      "ColorIndex": 4
+    },
+    "d084ae20-fd91-4e95-9754-79034d5ff049": {
+      "ProjectGuid": "d084ae20-fd91-4e95-9754-79034d5ff049",
+      "DisplayName": "P01_StudentSystem.Data.Models",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

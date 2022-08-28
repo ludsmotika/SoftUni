@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ks8q7Vkuz6GoW5t+2tSP4xSwnk+TS8xhN+ZzWoJfQI4D8pqri5dHqlthKaLD7qMclP7tr6jDmje1oR8khul8rg==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\SoftUni\\C# DB\\Entity Framework Core\\advancedQuering-Exercise\\BookShop.Models\\BookShop.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
