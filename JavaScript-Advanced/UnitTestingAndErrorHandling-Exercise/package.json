@@ -1,0 +1,17 @@
+{
+  "name": "chai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "07.Form-Validation/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6"
+  }
+}
