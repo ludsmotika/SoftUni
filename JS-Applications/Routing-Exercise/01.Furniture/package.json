@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "lit-html": "^2.2.1",
+    "mocha": "^10.1.0",
+    "page": "^1.11.6"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  }
+}
