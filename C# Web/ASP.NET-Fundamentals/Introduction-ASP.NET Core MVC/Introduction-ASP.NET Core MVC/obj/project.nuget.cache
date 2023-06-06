@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tpyr8YhrrfO66+jul5TTOrGseFYawtJkMd/kR1EhceDp9GaRuOXDOy0rNI6VN/T8xoRiDnC72lZcYBYigskZuQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dani\\GitHubRepos\\SoftUni\\C# Web\\Introduction-ASP.NET Core\\Introduction-ASP.NET Core MVC\\Introduction-ASP.NET Core MVC\\Introduction-ASP.NET Core MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.1.1\\microsoft.aspnetcore.html.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.1.2\\microsoft.aspnetcore.razor.2.1.2.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

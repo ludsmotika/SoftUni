@@ -1,0 +1,31 @@
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\bin\Debug\net6.0\appsettings.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\bin\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.staticwebassets.runtime.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\bin\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.exe
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\bin\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.deps.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\bin\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.runtimeconfig.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\bin\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.dll
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\bin\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.pdb
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.csproj.AssemblyReference.cache
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.AssemblyInfoInputs.cache
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.AssemblyInfo.cs
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.csproj.CoreCompileInputs.cache
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.RazorAssemblyInfo.cache
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.RazorAssemblyInfo.cs
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets\msbuild.BasicChatApp-ASP.NET Core MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.BasicChatApp-ASP.NET Core MVC.props
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BasicChatApp-ASP.NET Core MVC.props
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BasicChatApp-ASP.NET Core MVC.props
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\scopedcss\bundle\BasicChatApp-ASP.NET Core MVC.styles.css
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\scopedcss\projectbundle\BasicChatApp-ASP.NET Core MVC.bundle.scp.css
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.dll
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\refint\BasicChatApp-ASP.NET Core MVC.dll
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.pdb
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\BasicChatApp-ASP.NET Core MVC.genruntimeconfig.cache
+D:\Dani\GitHubRepos\SoftUni\C# Web\BasicChatApp-ASP.NET Core MVC\BasicChatApp-ASP.NET Core MVC\obj\Debug\net6.0\ref\BasicChatApp-ASP.NET Core MVC.dll

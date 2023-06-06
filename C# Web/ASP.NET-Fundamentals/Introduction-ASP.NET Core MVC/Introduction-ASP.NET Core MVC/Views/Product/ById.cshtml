@@ -1,0 +1,17 @@
+﻿@using Introduction_ASP.NET_Core_MVC.Models.Product;
+@model ProductViewModel
+
+@{
+    ViewBag.Title = "Numbers N."+ Model.Id;
+}
+
+
+<a asp-action="All" asp-controller="Product" class="btn btn-primary">Return to all products</a>
+
+<div class="card">
+    <div class="card-header">@ViewBag.Title</div>
+    <div class="card-body">
+        <h5 class="card-title">Product Name: @Model.Name</h5>
+        <p class="card-text">Price: @Model.Price lv.</p>
+    </div>
+</div>

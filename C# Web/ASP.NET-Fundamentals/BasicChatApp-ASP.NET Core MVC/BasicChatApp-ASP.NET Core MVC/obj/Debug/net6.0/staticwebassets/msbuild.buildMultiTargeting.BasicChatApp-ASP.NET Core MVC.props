@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BasicChatApp-ASP.NET Core MVC.props" />
+</Project>

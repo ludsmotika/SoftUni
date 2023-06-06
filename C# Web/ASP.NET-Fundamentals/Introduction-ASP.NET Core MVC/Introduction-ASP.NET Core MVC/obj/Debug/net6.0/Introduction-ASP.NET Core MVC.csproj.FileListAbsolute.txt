@@ -1,0 +1,33 @@
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\bin\Debug\net6.0\appsettings.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\bin\Debug\net6.0\Introduction-ASP.NET Core MVC.staticwebassets.runtime.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\bin\Debug\net6.0\Introduction-ASP.NET Core MVC.exe
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\Introduction-ASP.NET Core MVC.csproj.AssemblyReference.cache
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\Introduction-ASP.NET Core MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\Introduction-ASP.NET Core MVC.AssemblyInfoInputs.cache
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\Introduction-ASP.NET Core MVC.AssemblyInfo.cs
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\Introduction-ASP.NET Core MVC.csproj.CoreCompileInputs.cache
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\Introduction-ASP.NET Core MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\Introduction-ASP.NET Core MVC.RazorAssemblyInfo.cache
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\Introduction-ASP.NET Core MVC.RazorAssemblyInfo.cs
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets\msbuild.Introduction-ASP.NET Core MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.Introduction-ASP.NET Core MVC.props
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Introduction-ASP.NET Core MVC.props
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Introduction-ASP.NET Core MVC.props
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\scopedcss\bundle\Introduction-ASP.NET Core MVC.styles.css
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\scopedcss\projectbundle\Introduction-ASP.NET Core MVC.bundle.scp.css
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\Introduction-ASP.NET Core MVC.csproj.CopyComplete
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\Introduction-ASP.NET Core MVC.dll
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\refint\Introduction-ASP.NET Core MVC.dll
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\Introduction-ASP.NET Core MVC.pdb
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\bin\Debug\net6.0\Introduction-ASP.NET Core MVC.deps.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\bin\Debug\net6.0\Introduction-ASP.NET Core MVC.runtimeconfig.json
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\bin\Debug\net6.0\Introduction-ASP.NET Core MVC.dll
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\bin\Debug\net6.0\Introduction-ASP.NET Core MVC.pdb
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\Introduction-ASP.NET Core MVC.genruntimeconfig.cache
+D:\Dani\GitHubRepos\SoftUni\C# Web\Introduction-ASP.NET Core\Introduction-ASP.NET Core MVC\Introduction-ASP.NET Core MVC\obj\Debug\net6.0\ref\Introduction-ASP.NET Core MVC.dll

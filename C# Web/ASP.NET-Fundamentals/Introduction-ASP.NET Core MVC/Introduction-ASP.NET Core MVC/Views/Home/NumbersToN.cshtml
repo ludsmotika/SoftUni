@@ -1,0 +1,21 @@
+﻿@model int
+
+@{
+    ViewData["Title"] = "Numbers from 1 to " + @Model;
+}
+
+<form method="post">
+    <input type="text" name="number">
+    <input type="submit">
+</form>
+
+
+<h3>@ViewBag.Title</h3>
+<ul>
+        @for (int i = 1; i <= @Model; i++)
+        {
+            <li>@i</li>
+        }
+    
+
+</ul>

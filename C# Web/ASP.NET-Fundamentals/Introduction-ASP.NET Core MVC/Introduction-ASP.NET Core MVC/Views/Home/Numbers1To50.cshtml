@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Page with numbers from 1 to 50!";
+}
+
+
+<h3>@ViewBag.Title</h3>
+<ul>
+    @for (int i = 1; i <= 50; i++)
+    {
+        <li>@i</li>
+    }
+</ul>

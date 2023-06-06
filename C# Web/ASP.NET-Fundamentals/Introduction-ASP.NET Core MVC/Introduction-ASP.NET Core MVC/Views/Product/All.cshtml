@@ -1,0 +1,31 @@
+﻿@using Introduction_ASP.NET_Core_MVC.Models.Product;
+@model IEnumerable<ProductViewModel>
+
+
+
+
+<h2>Find product by id</h2>
+<form asp-controller="Product" asp-action="ById" method="post">
+    <input type="number" name="id">
+    <input type="submit">
+</form>
+
+
+
+<h1>All Products</h1>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+
+    @foreach (var product in @Model)
+    {
+        <tr border="1">
+            <td border="1">@product.Name</td>
+            <td>@product.Price leva</td>
+        </tr>
+    }
+</table>
