@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using NuGet.Versioning;
@@ -12,6 +13,7 @@ namespace TaskBoardApp.Controllers
 
     using Task = Data.Models.Task;
 
+    [Authorize]
     public class TaskController : Controller
     {
 
@@ -81,7 +83,7 @@ namespace TaskBoardApp.Controllers
                 Owner = _userManager.FindByIdAsync(x.OwnerId).GetAwaiter().GetResult().UserName
             }).FirstOrDefaultAsync();
 
-            if (task == null) 
+            if (task == null)
             {
                 return BadRequest();
             }
@@ -89,8 +91,121 @@ namespace TaskBoardApp.Controllers
             return View(task);
         }
 
+        [HttpGet]
+        public async Task<IActionResult> Edit(int id)
+        {
+            var task = await data.Tasks.FindAsync(id);
+
+            if (task == null)
+            {
+                return BadRequest();
+            }
+
+            string currentUserId = GetUserId();
+            if (currentUserId != task.OwnerId)
+            {
+                return Unauthorized();
+            }
+
+            TaskFormModel taskModel = new TaskFormModel()
+            {
+                Title=task.Title,
+                Description=task.Description,
+                BoardId=task.BoardId,
+                Boards= GetBoards()
+            };
+
+            return View(taskModel);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(int id, TaskFormModel taskModel)
+        {
+            var task = await data.Tasks.FindAsync(id);
+
+            if (task == null)
+            {
+                return BadRequest();
+            }
+
+            string currentUserId = GetUserId();
+            if (currentUserId != task.OwnerId)
+            {
+                return Unauthorized();
+            }
+
+            if (!GetBoards().Any(x=>x.Id==taskModel.BoardId)) 
+            {
+                ModelState.AddModelError(nameof(taskModel.BoardId), "Board does not exist.");
+            }
+
+            if (!ModelState.IsValid) 
+            {
+                taskModel.Boards = GetBoards();
+                return View(taskModel);
+            }
+
+            task.Title = taskModel.Title;
+            task.Description = taskModel.Description;
+            task.BoardId = taskModel.BoardId;
+
+            await data.SaveChangesAsync();
+            return RedirectToAction("All", "Board");
+        }
 
 
+        [HttpGet]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var task = await data.Tasks.FindAsync(id);
+
+            if (task == null) 
+            {
+                return BadRequest();
+            }
+
+            string currentUserId = GetUserId();
+            if (currentUserId != task.OwnerId)
+            {
+                return Unauthorized();
+            }
+
+            TaskViewModel taskModel = new TaskViewModel()
+            {
+                Id= task.Id,
+                Title= task.Title,
+                Description= task.Description
+            };
+
+
+            return View(taskModel);
+        }
+
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(TaskViewModel taskModel) 
+        {
+            //get the task
+            var task = await data.Tasks.FindAsync(taskModel.Id);
+
+            //validation
+            if (task == null)
+            {
+                return BadRequest();
+            }
+
+            string currentUserId = GetUserId();
+            if (currentUserId != task.OwnerId)
+            {
+                return Unauthorized();
+            }
+            //remove the task and save changes
+
+            data.Tasks.Remove(task);
+            await data.SaveChangesAsync();
+
+            return RedirectToAction("All", "Board");
+        }
 
         private IEnumerable<TaskBoardModel> GetBoards()
         {

@@ -68,8 +68,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Dani/GitHubRepos/SoftUni/C\# Web/ASP.NET-Fundamentals/TaskBoardApp-ASP.NET Core MVC/TaskBoardApp/Views/Task/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Dani/GitHubRepos/SoftUni/C\# Web/ASP.NET-Fundamentals/TaskBoardApp-ASP.NET Core MVC/TaskBoardApp/Views/Task/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dani/GitHubRepos/SoftUni/C\# Web/ASP.NET-Fundamentals/TaskBoardApp-ASP.NET Core MVC/TaskBoardApp/Views/Task/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Dani/GitHubRepos/SoftUni/C\# Web/ASP.NET-Fundamentals/TaskBoardApp-ASP.NET Core MVC/TaskBoardApp/Views/_ViewImports.cshtml]
