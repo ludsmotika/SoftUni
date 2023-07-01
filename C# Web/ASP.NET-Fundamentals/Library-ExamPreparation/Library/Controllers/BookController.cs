@@ -74,6 +74,7 @@ namespace Library.Controllers
         public async Task<IActionResult> AddToCollection(int id)
         {
             //get the user id
+            throw new Exception();
             string userId = GetUserId();
 
             //pass that information to create the IdentityUserBooks in the service
